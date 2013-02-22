@@ -1,4 +1,4 @@
-ljweather
+LJ Weather
 =========
 
-A Weather app
+Een weer app die gebruikt maakt van de Yahoo Weather API. Gemaakt door Lars voor LJ Roosters.
